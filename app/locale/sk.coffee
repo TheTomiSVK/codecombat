@@ -6,12 +6,12 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
     play: "Hraj" # The big play button that just starts playing a level
     old_browser: "Ajaj, prehliadač je príliš starý. CodeCombat na ňom nepôjde. Je nám to ľúto!" # Warning that shows up on really old Firefox/Chrome/Safari
     old_browser_suffix: "Skúsiť sa to dá, ale asi to nepôjde."
-#    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
+#    ipad_browser: "Zlé správy: CodeCombat nefunguje na iPade v prehliadači. Dobré správy: Naša aplikácia čaká na chválenie spoločnosťou Apple."
     campaign: "Ťaženie"
     for_beginners: "Pre začiatočníkov"
-#    multiplayer: "Multiplayer" # Not currently shown on home page
+#    multiplayer: "Viac hráčov" # Not currently shown on home page
     for_developers: "Pre vývojárov" # Not currently shown on home page.
-#    or_ipad: "Or download for iPad"
+#    or_ipad: "Alebo stiahni pre iPad "
 
   nav:
     play: "Hraj" # The top nav bar entry where players choose which levels to play
@@ -19,10 +19,10 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
     editor: "Editor"
     blog: "Blog"
     forum: "Fórum"
-#    account: "Account"
-#    profile: "Profile"
-#    stats: "Stats"
-#    code: "Code"
+#    account: "Účet"
+#    profile: "Profil"
+#    stats: "Štatistiky"
+#    code: "Kód"
     admin: "Spravuj" # Only shows up when you are an admin
     home: "Domov"
     contribute: "Prispej"
@@ -30,7 +30,7 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
     about: "O projekte"
     contact: "Kontakt"
     twitter_follow: "Sleduj na twitteri"
-#    teachers: "Teachers"
+#    teachers: "Učitelia"
 
   modal:
     close: "Zatvor"
@@ -50,25 +50,25 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
   play:
     play_as: "Hraj ako" # Ladder page
     spectate: "Sleduj" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
-#    unlock: "Unlock" # For purchasing items and heroes
-#    confirm: "Confirm"
-#    owned: "Owned" # For items you own
-#    locked: "Locked"
+#    players: "hráči" # Hover over a level on /play
+#    hours_played: "nahraných hodín" # Hover over a level on /play
+#    items: "veci" # Tooltip on item shop button from /play
+#    unlock: "Odomknúť" # For purchasing items and heroes
+#    confirm: "Potvrdiť"
+#    owned: "Vlastnené" # For items you own
+#    locked: "Zamknuté"
 #    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
-#    available: "Available"
+#    available: "Dostupné"
 #    skills_granted: "Skills Granted" # Property documentation details
-#    heroes: "Heroes" # Tooltip on hero shop button from /play
-#    achievements: "Achievements" # Tooltip on achievement list button from /play
-#    account: "Account" # Tooltip on account button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
-#    next: "Next" # Go from choose hero to choose inventory before playing a level
+#    heroes: "Hrdinovia" # Tooltip on hero shop button from /play
+#    achievements: "Úspechy" # Tooltip on achievement list button from /play
+#    account: "Účet" # Tooltip on account button from /play
+#    settings: "Nastavenia" # Tooltip on settings button from /play
+#    next: "Ďalší" # Go from choose hero to choose inventory before playing a level
 #    change_hero: "Change Hero" # Go back from choose inventory to choose hero
 #    choose_inventory: "Equip Items"
 #    buy_gems: "Buy Gems"
-#    older_campaigns: "Older Campaigns"
+#    older_campaigns: "Staršie Kampane"
 #    anonymous: "Anonymous Player"
     level_difficulty: "Obtiažnosť."
     campaign_beginner: "Ťaženie pre začiatočníkov"
